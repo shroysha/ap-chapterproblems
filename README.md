@@ -1,7 +1,7 @@
 # ap-chapterproblems
 
 ## Description
-null
+Chapter problem assignments given in AP Computer Science
 
 ### Tags
 [Java, JUnit]
